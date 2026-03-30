@@ -1,30 +1,37 @@
-# TF Tools
+<div align="center">
 
-**A unified engineering toolbox for HVAC and mechanical engineers.**
+# 🛠️ TF Tools
 
-Built by engineers, for engineers. TF Tools replaces scattered Excel spreadsheets and expensive commercial software with a polished, free desktop application featuring ASHRAE-referenced calculations.
+**Unified engineering toolbox for HVAC and mechanical engineers.**
 
-## Download
+[![Download Latest](https://img.shields.io/github/v/release/Troy3408/TF-Tools-Releases?label=Download&style=for-the-badge&color=3b82f6)](https://github.com/Troy3408/TF-Tools-Releases/releases/latest)
 
-Go to the **[Releases](https://github.com/Troy3408/TF-Tools-Releases/releases)** page and download the latest installer.
+---
 
-## Features
+</div>
 
-- Hydronic Head Loss Calculator (Darcy-Weisbach, K-factor, Cv methods)
-- Multi-project support with import/export
-- 8 dark themes
-- ASHRAE-referenced calculations with built-in help documentation
-- Auto-updates — install once, get new versions automatically
+## Download & Install
 
-## Installation
+1. Click the **Download** button above (or go to [Releases](https://github.com/Troy3408/TF-Tools-Releases/releases))
+2. Run `TF-Tools-Setup-x.x.x.exe`
+3. If Windows warns "Unknown publisher" — click **More info → Run anyway**
+4. Launch from Start Menu or Desktop
 
-1. Download `TF-Tools-Setup-x.x.x.exe` from [Releases](https://github.com/Troy3408/TF-Tools-Releases/releases)
-2. Run the installer
-3. Windows SmartScreen may warn "Unknown publisher" — click **More info** then **Run anyway**
-4. Choose install location and install
-5. Launch TF Tools from the Start Menu or Desktop shortcut
+> **Requirements:** Windows 10 or later. No additional software needed.
 
-## System Requirements
+---
 
-- Windows 10 or later
-- No additional software required (Python, Node.js, etc. are all bundled)
+## What's Inside
+
+- **Hydronic Head Loss Calculator** — Darcy-Weisbach, K-factor, and Cv methods
+- **Multi-project support** — switch between jobs, import/export project files
+- **8 dark themes** — Midnight, Nord, Dracula, Monokai, and more
+- **Auto-updates** — install once, get new versions automatically
+
+---
+
+<div align="center">
+
+*Early release — more engineering tools coming soon.*
+
+</div>
